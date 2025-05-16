@@ -151,15 +151,6 @@ Whether you're working with CODESYS, TwinCAT, Danfoss PLUS+1, or Siemens TIA Por
   - String processing
   - Structured data types
 
-## Libraries and Reusable Blocks
-
-> Function blocks and utilities you can drop into your project
-
-- [Oscillator logic](#) *(add your own!)*
-- [CAN decoding patterns](#)
-- [Debounce logic block](#)
-- *(You can grow this with user contributions)*
-
 ## Tools & Simulators
 
 ### Development Environments
