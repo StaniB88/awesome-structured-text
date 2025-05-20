@@ -4,7 +4,20 @@
 
 Structured Text (ST) is a high-level, Pascal-like programming language defined in the IEC 61131-3 standard, used in PLCs, HMIs, and industrial control systems. For software engineers transitioning to industrial automation, ST offers a familiar entry point with its Pascal-like syntax, support for modern programming concepts, and text-based nature. While other IEC languages like Ladder Logic excel at specific tasks, ST provides the flexibility and expressiveness of traditional programming while maintaining the deterministic execution and safety features required in industrial systems.
 
+## Development
+### Development Platforms
+- [TwinCAT by Beckhoff](https://www.beckhoff.com/en-us/products/automation/twincat/) - Realtime PLC, NC, CNC, and robots control on almost any PC
+- [CODESYS](https://store.codesys.com/en/codesys.html) - Manufacturer-independent IC 61131-3 development platform
+- [OpenPLC](https://autonomylogic.com/) - Open-source PLC based on easy-to-use software
+### Testing
+- [TcUnit](https://github.com/tcunit/TcUnit) - TwinCAT unit testing framework
+### Extensions
+- [vscode-st](https://github.com/Serhioromano/vscode-st) - Structured Text language support for Visual Studio Code
+
 ## Resources
+
+### Lists
+- [twincat-resources](https://github.com/benhar-dev/twincat-resources) - A curated list of TwinCAT resources
 
 ### Videos
 - [PLC programming using TwinCAT 3 by Jakob Sagatowski](https://www.youtube.com/playlist?list=PLimaF0nZKYHz3I3kFP4myaAYjmYk1SowO) - 18-part course covering various aspects of TwinCAT 3, geared toward software engineers
