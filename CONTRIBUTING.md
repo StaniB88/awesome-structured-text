@@ -10,7 +10,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Make sure the resource is useful before submitting.
 - Make an individual pull request for each suggestion.
 - Use [title-casing](https://capitalizemytitle.com/) (AP style).
-- Use the following format: `[Resource Name](link) - Description.`
+- Use the following format: `[Resource Name](link) - Description`
 - Link additions should be added to the relevant category in alphabetical order.
 - New categories or improvements to the existing categorization are welcome.
 - Check your spelling and grammar.
